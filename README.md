@@ -13,4 +13,4 @@ Usage:
 1. After installing the extension, a new icon will appear in your Chrome toolbar.
 2. Click on the extension icon to use the extension.
 
-The URL will be saved to the local storage and will also be rendered in th extension.
+The URL will be saved to the local storage and will also be rendered in the extension.
